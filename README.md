@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @germanandu
 - 🌱 I’m currently learning React and Node.js
 - 👯 I’m looking to collaborate with other software developer beginners
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and sing
 
 ### Connect with me:
